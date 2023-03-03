@@ -1,5 +1,5 @@
 Hi! 👋
-In my spare time I mostly contribute to my pinned projects or to [Pyrohax](https://github.com/Pyrohax). You can check out my [Portfolio](http://jasperdre.com/) or find me on [LinkedIn](https://www.linkedin.com/in/jasperdre/).
+In my spare time I mostly contribute to my pinned projects or to [Pyrohax](https://github.com/Pyrohax). You can check out my [Portfolio](http://jasperdre.com/) or find me on [LinkedIn](https://www.linkedin.com/in/jasperdrescher/).
 <br />
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperdre&show_icons=true&count_private=true&hide=contribs)](https://github.com/JasperDre/)
